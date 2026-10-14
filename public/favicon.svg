@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="10" fill="#0b0b0c"/>
+  <g>
+    <polygon points="6,14 14,6 22,6 14,14" fill="#f4f1ea"/>
+    <polygon points="14,14 22,6 30,6 22,14" fill="#f5c518"/>
+    <polygon points="22,14 30,6 38,6 30,14" fill="#f4f1ea"/>
+    <polygon points="30,14 38,6 46,6 38,14" fill="#f5c518"/>
+    <polygon points="38,14 46,6 54,6 46,14" fill="#f4f1ea"/>
+    <polygon points="46,14 54,6 58,8 50,16" fill="#f5c518"/>
+  </g>
+  <rect x="6" y="14" width="52" height="3" fill="#f5c518"/>
+  <text x="32" y="48" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="26" fill="#f5c518" letter-spacing="1">SG</text>
+</svg>
